@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+main()
+{
+int add;
+int sub;
+float div;
+int multiple;
+add = 1 number+ 2 number+ 3number + 4 number;
+cout << "enter 1 number:";
+cout << "enter 2 number:";
+cout << "enter 3 number:";
+cout << "enter 4 number:";
+cin >> add;
+sub= 5 number- 6 number -7 number;
+cout << "enter 5 number:";
+cout << "enter 6 number:";
+cout << "enter 7 number:";
+cin >>sub;
+div= 8 number/9 number;
+cout << "enter number 9:";
+cout << : enter number 10:";
+multiple = 11 number * 12 number;
+cout << " enter 11 number:";
+cout << "enter 12 number:";
+cin >> multiple;
+}
+

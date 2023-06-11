@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+char result( int num);
+main()
+{
+	int num;
+	char grade;
+	cout << "Enter your marks:"
+	cin >> num;
+
+	grade = result(num);
+}
+
+char result( int num)
+{
+	char grade;
+	if( num < 50)
+	{
+		grade = 'F'
+	
+	  
+
+		
+	
+	
